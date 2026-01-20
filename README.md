@@ -1,5 +1,5 @@
 # CRINet
-CRINet: Cross-Region Interaction Networks for Remote Sensing Image Translation
+CRINet: Cross-Region Interaction Network for Remote Sensing Image Translation
 
 
 Waiting....
